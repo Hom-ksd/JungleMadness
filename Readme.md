@@ -12,7 +12,7 @@ Load `JungleMadness.zip` then unzip file run the JungleMadness.exe for play a Ga
 | K or Right Click | Skill |
 | F | Interact |
 | P | Pause |
-| W Space Bar | Jump |
+| W or Space Bar | Jump |
 | Shift | Roll |
 
 Credit 
